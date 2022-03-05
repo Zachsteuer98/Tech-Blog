@@ -133,6 +133,11 @@
     margin: -1.5% 0 2% 0;
   }
   
+  .postarea {
+    height: 220px;
+    width: 315px;
+
+  }
   .comment-form {
     margin-bottom: 5%;
   }
